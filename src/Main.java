@@ -3,18 +3,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
-        //PSEUDO CODE HERE
-        //class
-        //  main
-        //  return
-        //end class
         //Declaring variables
         Scanner in = new Scanner(System.in);
         double tempC;
         double tempF;
         String doneYN = "";
         String trash = "";
-        Boolean done = false;
+        boolean done = false;
 
         //do while loop to execute code so long as the boolean
         do{
