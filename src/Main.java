@@ -25,7 +25,7 @@ public class Main {
             else
             {
                 trash = in.nextLine();
-                System.out.println("You must enter a valid number not" +trash);
+                System.out.println("You must enter a valid number not " +trash);
             }
         } while (!done);
     }
