@@ -7,7 +7,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
         double tempC;
         double tempF;
-        String doneYN = "";
         String trash = "";
         boolean done = false;
 
